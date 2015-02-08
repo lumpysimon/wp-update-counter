@@ -1,11 +1,11 @@
 # Update Counter #
 
-**Contributors:** lumpysimon
-**Tags:** update, upgrade, updates, upgrades, stats, statistics, administration, reporting, maintenance
-**Requires at least:** 3.5
-**Tested up to:** 4.1
-**Stable tag:** trunk
-**License:** GPL v2 or later
+* **Contributors:** lumpysimon
+* **Tags:** update, upgrade, updates, upgrades, stats, statistics, administration, reporting, maintenance
+* **Requires at least:** 3.5
+* **Tested up to:** 4.1
+* **Stable tag:** trunk
+* **License:** GPL v2 or later
 
 A WordPress plugin that keeps count of how many times you have upgraded your plugins and themes. A dashboard widget gives you an at-a-glance-summary.
 
