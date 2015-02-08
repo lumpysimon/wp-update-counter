@@ -7,11 +7,15 @@
 * **Stable tag:** trunk
 * **License:** GPL v2 or later
 
-A WordPress plugin that keeps count of how many times you have upgraded your plugins and themes. A dashboard widget gives you an at-a-glance-summary.
+A WordPress plugin that keeps count of how many times you have upgraded your plugins and themes. A dashboard widget gives you an at-a-glance summary.
+
+## Known bugs and to do list ##
+
+Please see the [GitHub issues](https://github.com/lumpysimon/wp-update-counter/issues).
 
 ## Contributing ##
 
-Code contributions are very welcome, as are bug reports in the form of GitHub issues. Development happens in the `develop` branch, and any pull requests should be made to that branch.
+Code contributions are very welcome, as are bug reports and feature requests in the form of [GitHub issues](https://github.com/lumpysimon/wp-update-counter/issues). Development happens in the [develop branch](https://github.com/lumpysimon/wp-update-counter/tree/develop), any pull requests should be made to that branch.
 
 ## License: GPLv2 ##
 

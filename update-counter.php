@@ -13,7 +13,7 @@ Author URI: http://simonblackbourn.net
 /*
 TODO: finish basic dashboard widget
 TODO: check user capability for dashboard widget visibility
-TODO: check if db inserts need to be prepared
+TODO: check if db inserts need to be prepared/sanitised
 TODO: delete data on plugin delete
 
 IDEA: cache total in a transient (flush on update)
